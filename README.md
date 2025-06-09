@@ -22,15 +22,6 @@ A simple and interactive weather application built with *React.js, allowing user
 - *Axios* for HTTP requests
 - *CSS* for styling
 - *OpenWeatherMap API*
-
----
-
-## 📸 Screenshots
-
-| Home (Current Location) | Search by City |
-|-------------------------|----------------|
-| ![Home Screenshot](screenshot_home.png) | ![Search Screenshot](screenshot_search.png) |
-
 ---
 
 ## 🔑 Prerequisites
@@ -48,16 +39,6 @@ A simple and interactive weather application built with *React.js, allowing user
    git clone https://github.com/Prathamesh-54/weatherApp-react.git
    cd weatherApp-Reactjs
 
-<p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
-</p>
-
-<p align="center">
-  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
- </p>
- <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
- </p>
 
 ## Setup
 
